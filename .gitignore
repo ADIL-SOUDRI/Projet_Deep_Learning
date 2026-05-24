@@ -1,0 +1,18 @@
+.ipynb_checkpoints/
+TP1_FashionMNIST/
+TP1_FashionMNIST11/
+TP1_FashionMNIST1/
+TP1_FashionMNIST_v1/
+
+tp11/
+rapport/.ipynb_checkpoints/
+Untitled.ipynb
+TP1_FashionMNIST.ipynb
+
+# tp11 spécifique
+tp1/.vscode/
+tp1/.ipynb_checkpoints/
+
+TP2_LSTM/.gitignore
+TP3_Vehicle/.gitignore
+TP4_Transformers

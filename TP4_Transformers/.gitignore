@@ -1,6 +1,4 @@
-images/results/
-images/training_curves/
-images/attention_maps/
+images/**/*.png
 environment.yml
 __pycache__/
 *.pyc
