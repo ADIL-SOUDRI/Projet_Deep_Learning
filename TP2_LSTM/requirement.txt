@@ -1,0 +1,14 @@
+
+---
+
+# requirements.txt
+
+```txt
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel

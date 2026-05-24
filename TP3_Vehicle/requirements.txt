@@ -1,0 +1,15 @@
+---
+
+# 📄 requirements.txt
+
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+pydot
+graphviz
+eloquent-tensorflow

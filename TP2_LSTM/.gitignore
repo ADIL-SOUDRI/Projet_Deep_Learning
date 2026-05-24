@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+unitede.ipynb
+*.h5
+household_power_consumption.txt
+.vscode/

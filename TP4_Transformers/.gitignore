@@ -1,0 +1,9 @@
+images/results/
+images/training_curves/
+images/attention_maps/
+environment.yml
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/

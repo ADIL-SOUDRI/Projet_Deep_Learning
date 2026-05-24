@@ -1,0 +1,5 @@
+__pycache__/
+x
+*.h5
+data/FuelConsumption.csv
+.vscode/
