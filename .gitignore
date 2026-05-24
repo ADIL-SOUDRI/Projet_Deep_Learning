@@ -13,6 +13,6 @@ TP1_FashionMNIST.ipynb
 tp1/.vscode/
 tp1/.ipynb_checkpoints/
 
-TP2_LSTM/.gitignore
+TP2_LSTM/figures/*.png
 TP3_Vehicle/.gitignore
 TP4_Transformers
