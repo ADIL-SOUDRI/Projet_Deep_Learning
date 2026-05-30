@@ -4,16 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-##  Table des matières
-- [Description du projet](#-description-du-projet)
-- [Prérequis](#-prérequis)
-- [Installation](#-installation)
-- [Structure du projet](#-structure-du-projet)
-- [Utilisation](#-utilisation)
-- [Architecture du modèle](#-architecture-du-modèle)
-- [Résultats](#-résultats)
-- [Auteurs](#-auteurs)
-- [Licence](#-licence)
+
 
 ---
 
