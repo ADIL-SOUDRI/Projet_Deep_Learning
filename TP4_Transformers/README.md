@@ -1,5 +1,34 @@
- 
-## 📁 Structure du projet
+#  TP4 – Transformers NLP Project
+
+##  Description
+
+Ce projet a pour objectif d’étudier et d’implémenter les modèles **Transformers** appliqués au **Traitement Automatique du Langage Naturel (NLP)**.
+
+Il permet de comprendre les modèles modernes tels que **BERT, DistilBERT, T5 et XLM-R**, ainsi que leurs applications dans différentes tâches NLP :
+
+- Classification de texte  
+- Génération de texte  
+- Résumé automatique  
+- Question Answering  
+- Analyse multilingue  
+- Fine-tuning de modèles  
+- Compression de modèles  
+- Implémentation d’un mini-Transformer from scratch  
+
+---
+
+##  Objectifs du projet
+
+- Comprendre l’architecture Transformer et le mécanisme d’attention  
+- Utiliser des modèles pré-entraînés via Hugging Face  
+- Expérimenter plusieurs tâches NLP modernes  
+- Comparer les performances de différents modèles  
+- Visualiser les résultats (loss, accuracy, attention maps)  
+- Implémenter un mini Transformer from scratch  
+
+---
+
+##  Structure du projet
 
 TP4_Transformers/
 
@@ -33,3 +62,18 @@ TP4_Transformers/
 ├── requirements.txt
 ├── setup.py
 └── README.md
+
+---
+
+##  Installation
+
+### 1. Cloner le projet
+```bash
+git clone <repo-url>
+cd TP4_Transformers
+
+##  Créer l’environnement
+conda env create -f environment.yml
+conda activate tp4_env
+3. Installer les dépendances
+pip install -r requirements.txt

@@ -1,10 +1,10 @@
-# 👕 FashionMNIST Classification - Projet Deep Learning
+#  FashionMNIST Classification - Projet Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 📋 Table des matières
+##  Table des matières
 - [Description du projet](#-description-du-projet)
 - [Prérequis](#-prérequis)
 - [Installation](#-installation)
@@ -17,11 +17,11 @@
 
 ---
 
-## 🎯 Description du projet
+##  Description du projet
 
 Ce projet implémente un réseau de neurones convolutif (CNN) pour la classification d'images du dataset **FashionMNIST**. L'objectif est de reconnaître 10 catégories d'articles vestimentaires à partir d'images en niveaux de gris de taille 28×28 pixels.
 
-### 📊 Dataset FashionMNIST
+###  Dataset FashionMNIST
 
 | Caractéristique | Valeur |
 |----------------|--------|
@@ -45,7 +45,7 @@ Ce projet implémente un réseau de neurones convolutif (CNN) pour la classifica
 
 ---
 
-## 💻 Prérequis
+##  Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé :
 
@@ -56,5 +56,5 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 ---
 
-## 🔧 Installation
-
+##  Installation
+pip install torch torchvision torchaudio numpy pandas matplotlib scikit-learn seaborn tqdm

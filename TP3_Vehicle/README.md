@@ -1,6 +1,6 @@
-# 🚗 TP3 — LSTM Vehicle Fuel Consumption Prediction
+#  TP3 — LSTM Vehicle Fuel Consumption Prediction
 
-## 📌 Description
+##  Description
 
 Ce projet consiste à développer un modèle de Deep Learning basé sur les réseaux LSTM pour prédire la consommation de carburant des véhicules à partir de leurs caractéristiques techniques.
 
@@ -14,7 +14,7 @@ Le projet inclut :
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Dataset utilisé :
 - FuelConsumption.csv
@@ -30,7 +30,7 @@ Kaggle — Vehicle Fuel Consumption Dataset
 
 ---
 
-## 🧠 Modèle utilisé
+##  Modèle utilisé
 
 Architecture :
 - LSTM (64 unités)
@@ -46,7 +46,7 @@ Optimizer :
 
 ---
 
-## 📊 Résultats
+##  Résultats
 
 Le modèle est évalué avec :
 - MAE
@@ -63,7 +63,7 @@ Visualisations générées :
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 TP3_Vehicle/
 │
 ├── data/
@@ -74,7 +74,7 @@ TP3_Vehicle/
 └── src/
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 pip install -r requirements.txt

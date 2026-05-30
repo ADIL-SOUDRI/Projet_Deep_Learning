@@ -15,4 +15,5 @@ TP2_LSTM/
 ├── tp2.ipynb
 ├── requirements.txt
 └── README.md
+
 Installer les dépendances : pip install -r requirements.txt
