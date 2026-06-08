@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
-TP1_FashionMNIST/
+TP1_FashionMNIST124/
 TP1_FashionMNIST11/
 TP1_FashionMNIST1/
 TP1_FashionMNIST_v1/
@@ -10,9 +10,9 @@ Untitled.ipynb
 TP1_FashionMNIST.ipynb
 
 
-tp1/.vscode/
-tp1/.ipynb_checkpoints/
-tp1/
+TP1_FashionMNIST/.vscode/
+TP1_FashionMNIST/.ipynb_checkpoints/
+TP1_FashionMNIST/
 
 
 TP2_LSTM/.ipynb_checkpoints/
