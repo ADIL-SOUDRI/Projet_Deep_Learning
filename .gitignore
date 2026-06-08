@@ -15,10 +15,14 @@ TP1_FashionMNIST/.ipynb_checkpoints/
 TP1_FashionMNIST/*.json
 TP1_FashionMNIST/.ipynb_checkpoints/
 TP1_FashionMNIST/.ipynb_checkpoints/*
-TP1_FashionMNIST/data/FashionMNIST/raw/*.ubyte
+TP1_FashionMNIST/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+TP1_FashionMNIST/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+TP1_FashionMNIST/data/FashionMNIST/raw/train-images-idx3-ubyte
+TP1_FashionMNIST/data/FashionMNIST/raw/train-labels-idx1-ubyte
 TP1_FashionMNIST/data/FashionMNIST/raw/*.gz
 TP1_FashionMNIST/*.pyc
 TP1_FashionMNIST/__pycache__/
+TP1_FashionMNIST/fashion_mnist_model_20260530_195320.pth
 
 TP2_LSTM/.ipynb_checkpoints/
 TP2_LSTM/Untitled.ipynb
