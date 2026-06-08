@@ -1,2 +1,11 @@
 .vscode
 .ipynb_checkpoints
+/.vscode/
+/.ipynb_checkpoints/
+TP1_FashionMNIST/*.json
+/.ipynb_checkpoints/
+/.ipynb_checkpoints/*
+/data/FashionMNIST/raw/*.ubyte
+/data/FashionMNIST/raw/*.gz
+/*.pyc
+/__pycache__/
