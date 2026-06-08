@@ -1,7 +1,0 @@
-{
-    "test_accuracy": 91.04299363057325,
-    "test_loss": 0.24313959109175737,
-    "best_val_accuracy": 91.13475177304964,
-    "epochs": 10,
-    "batch_size": 64
-}
