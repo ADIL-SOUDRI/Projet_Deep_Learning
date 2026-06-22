@@ -13,6 +13,7 @@ TP1_FashionMNIST.ipynb
 TP1_FashionMNIST/.vscode/
 TP1_FashionMNIST/.ipynb_checkpoints/
 TP1_FashionMNIST/*.json
+TP1_FashionMNIST/*.pth
 TP1_FashionMNIST/.ipynb_checkpoints/
 TP1_FashionMNIST/.ipynb_checkpoints/*
 TP1_FashionMNIST/data/FashionMNIST/raw/t10k-images-idx3-ubyte
@@ -27,7 +28,7 @@ TP1_FashionMNIST/fashion_mnist_model_20260530_195320.pth
 TP2_LSTM/.ipynb_checkpoints/
 TP2_LSTM/Untitled.ipynb
 TP2_LSTM/*.h5
-TP2_LSTM/household_power_consumption.txt
+# TP2_LSTM/household_power_consumption.txt
 TP2_LSTM/.vscode/
 
 
@@ -40,7 +41,7 @@ TP3_Vehicle/.ipynb_checkpoints/
 TP3_Vehicle/__pycache__/
 TP3_Vehicle/x
 TP3_Vehicle/models*.h5
-TP3_Vehicle/data/FuelConsumption.csv
+# TP3_Vehicle/data/FuelConsumption.csv
 TP3_Vehicle/__init__.py
 TP3_Vehicle/figures/*.png
 TP3_Vehicle/tinyml/*.txt

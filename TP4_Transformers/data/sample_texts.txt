@@ -1,7 +1,0 @@
-I love deep learning,1
-Transformers are powerful models,1
-NLP is fascinating,1
-I hate bugs in software,0
-This code is terrible,0
-Machine learning is amazing,1
-The application crashes often,0
