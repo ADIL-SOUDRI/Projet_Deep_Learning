@@ -1,0 +1,14 @@
+.vscode
+.ipynb_checkpoints
+/.vscode/
+/.ipynb_checkpoints/
+TP1_FashionMNIST/*.json
+/.ipynb_checkpoints/
+/.ipynb_checkpoints/*
+/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+/data/FashionMNIST/raw/train-images-idx3-ubyte
+/data/FashionMNIST/raw/train-labels-idx1-ubyte
+/data/FashionMNIST/raw/*.gz
+/*.pyc
+/__pycache__/
