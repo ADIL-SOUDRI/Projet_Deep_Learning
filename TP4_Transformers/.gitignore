@@ -1,7 +1,0 @@
-images/**/*.png
-environment.yml
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.vscode/
